@@ -1,6 +1,6 @@
 # Homework-1 Code Refactor
 ## Horiseon Webpage 
-### For this Homework assignment I recieved source code for Horiseon's webpage.  The code I recieved had no comments, lacked accessibility standards, and had excess code that could be condensed.
+### For this Homework assignment I received source code for Horiseon's webpage.  The code I recieved had no comments, lacked accessibility standards, and had excess code that could be condensed.
  ![Image of messy code](Develop/assets/images/prerefactorcode.PNG)
 
 
