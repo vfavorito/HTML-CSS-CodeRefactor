@@ -19,7 +19,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* this is the class used in the span tags in the header to style "seo" in the word" horiseon" */
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* This is the main conference room picture and its properties */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* these two classes allow for positioning of images in the section tags */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -92,7 +92,7 @@ section {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* This is the styling for the side panel next to the main section */
 aside {
     margin-right: 20px;
     padding: 20px;
