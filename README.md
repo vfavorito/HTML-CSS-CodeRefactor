@@ -14,7 +14,7 @@ The process involved:
 Even though the code functioned properly,  it needed to be cleaned up. After refactoring the source code given to me, readability and accessibility has been improved while keeping the original code's functionality.
 
 
-![PrerefactoredWebpage](images/01-html-css-git-homework-demo.png)
+![PrerefactoredWebpage](images/DeployedPage.PNG)
 
 ### Installation
 To install this project simply clone this repository to your local directory and access it using Visual Studio Code.
