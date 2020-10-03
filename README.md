@@ -16,6 +16,9 @@ Even though the code functioned properly,  it needed to be cleaned up. After ref
 
 ![PrerefactoredWebpage](images/DeployedPage.PNG)
 
+### Example
+Here is a link to the Webpage:  [https://vfavorito.github.io/HTML-CSS-CodeRefactor/](https://vfavorito.github.io/HTML-CSS-CodeRefactor/)
+
 ### Installation
 To install this project simply clone this repository to your local directory and access it using Visual Studio Code.
 
