@@ -67,14 +67,14 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
+} 
 
 section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* styling for the section articles */
 .search-online-social {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,7 +92,7 @@ section {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* This is the styling for the side panel next to the main section */
+/* This is the styling for the aside tags */
 aside {
     margin-right: 20px;
     padding: 20px;
